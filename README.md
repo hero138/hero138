@@ -1,6 +1,7 @@
 <h1 align="center">✨ Try everything ✨</h1>
 
 ## Contact Details
+- Mail: thomasyamamoto0308@gmail.com
 - Telegram: @thomasgill38
 - Skype: live:.cid.e17485104cc1e5e0
 - Discord: ThomasGill#8110
