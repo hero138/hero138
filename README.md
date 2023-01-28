@@ -10,9 +10,10 @@
 - Python, Django, Flask, FastAPI, PHP, Laravel, Node.js, Express
 - JavaScript, HTML, CSS, jQuery, Bootstrap, TailwindCSS, React, Redux, Next, Vue, Angular
 - React Native, Android, Flutter
-- CI/CD, DevOps, Docker/Kubernetes
+- SQL/NoSQL
+- CI/CD, DevOps, Docker/Kubernetes,Twilio
 - AWS, GCP
 - Blockchain, Web3
-- GIS, RS
+- Geographic Information System (GIS), Remote Sensing (RS)
 - CMS, CRM, eCommerce
 - Good problem solutions
